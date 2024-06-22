@@ -5,7 +5,7 @@ import cv2
 from PIL import Image
 
 # Path to the trained model
-model_path = 'my_trained_model2.h5'
+model_path = '/Users/sayeshagoel/Desktop/inspirit ai /my_trained_model2.h5'
 
 # Load the model
 classifier = load_model(model_path)
